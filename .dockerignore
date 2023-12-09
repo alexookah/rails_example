@@ -1,0 +1,9 @@
+node_modules
+vendor
+tmp
+log
+test
+.envrc
+public/packs
+public/vite*
+README.md
